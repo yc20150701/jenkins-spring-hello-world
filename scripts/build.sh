@@ -1,2 +1,2 @@
 #!bin/bash
-mvn -version
+echo 'hello world!!'
