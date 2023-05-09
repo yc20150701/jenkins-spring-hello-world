@@ -1,2 +1,3 @@
 #!bin/bash
-echo 'hello world!!'
+mvn compile
+echo 'build success'
