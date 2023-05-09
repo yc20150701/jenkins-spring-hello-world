@@ -1,3 +1,3 @@
 #!/bin/bash
-cd ./jenkins-spring-hello-world/target/
+cd ./jenkins-spring-hello-world/target
 nohup java -jar *.jar &
